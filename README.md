@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Arif</h1>
 <h3 align="center">A passionate Full-stack Developer from Bangladesh</h3>
-<img src="https://images.unsplash.com/photo-1592921116642-31423772836c?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="400">
+<img align="center" src="https://images.unsplash.com/photo-1592921116642-31423772836c?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"  width="1000" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arif-05&label=Profile%20views&color=0e75b6&style=flat" alt="arif-05" /> </p>
 
